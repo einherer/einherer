@@ -34,7 +34,7 @@ While studying in Merseburg I first heard about Python as a niche language and l
 
 During my work for CCN I became leadprogrammer for the Kindergarden software [KAI](https://www.kai.info/), written in Visual Foxpro.
 
-When I visited the [Foxpro Conference](http://devcon.dfpug.de/) in 2016 I meet my [Christof Wollenhaupt](https://github.com/cwollenhaupt) . As he has seen "my" KAI, while I tried to cover up a bug, he said "I want you to work for me." 
+When I visited the [Foxpro Conference](http://devcon.dfpug.de/) in 2016 I meet my former emplayer. As he has seen "my" KAI, while I tried to cover up a bug, he said "I want you to work for me." 
 That way he became my new employer and by working for foxpert I achieved much experiance with diffenrant flavors of how to handle things. With PCAS, a software for pharmacies, and Alpha, an elderly care managing software, we had our own software, too, but most of our customers were companies all over the world, where we were responsible for assisstance and developement of their software, reaching from car workshops and temporary employment companies to banking institutions and assurance companies.
 
 Now, after over 10 years of experiance in Foxpro-developement, it's time for something new.
