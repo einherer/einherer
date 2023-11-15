@@ -21,7 +21,8 @@
 -------------
 It all started back in the '90s with our first PC...a 386 with MS DOS.
 Later we managed to get hands on a bit more powerful PC with Win95 and a 26k modem ; so much power, but the programs and games are so restrictive - how nice would it be to create your own programs or change how they work...
-So I started modding my favorite games. In secondary school i choose informatics and mathematics as my advanced courses.
+So I started modding my favorite games (back then like Quake, Jedi Outcast/Jedi Academy, Age of Empires and so on). 
+In secondary school i choose informatics and mathematics as my advanced courses.
 There I started with the programming language Turbo Pascal. During my A-levels I learned C/C++.
 
 While studying in Merseburg I first heard about Python as a niche language and learned Java, Assambler and a bit of C#.
@@ -29,7 +30,7 @@ While studying in Merseburg I first heard about Python as a niche language and l
 During my work for CCN I became leadprogrammer for the Kindergarden software [KAI](https://www.kai.info/), written in Visual Foxpro.
 
 When I visited the [Foxpro Conference](http://devcon.dfpug.de/) in 2016 I meet my [Christof Wollenhaupt](https://github.com/cwollenhaupt) . As he has seen "my" KAI, while I tried to cover up a bug, he said "I want you to work for me." 
-That way he became my new employer and by working for foxpert I achieved much experiance with diffenrant flavors of how to handle things. With PCAS, a software for pharmacies, and Alpha, an elderly care managing software, we had our own software, too, but most of our customers were companies all over the world, where we were responsible for assisstance and developement of their software, reaching from car workshops and temporary employment companies to banking institutions and assurnce companies.
+That way he became my new employer and by working for foxpert I achieved much experiance with diffenrant flavors of how to handle things. With PCAS, a software for pharmacies, and Alpha, an elderly care managing software, we had our own software, too, but most of our customers were companies all over the world, where we were responsible for assisstance and developement of their software, reaching from car workshops and temporary employment companies to banking institutions and assurance companies.
 
 Now, after over 10 years of experiance in Foxpro-developement, it's time for something new.
 Python seems to get hyped lately for backend and AI developement, so I hope this will be the "place to be" for me the next decades. 😀
