@@ -1,6 +1,8 @@
 ### Einherer
 *Software Developer based near Berlin*
 
+![ ](https://github.com/einherer/einherer/blob/main/pics/share-left.gif)
+
 | Edjucation| | |
 | :--- | :--- | :--- |
 | 1993 - 1998 | Pestalozzi - elementary school | Greiffenberg   |
@@ -20,6 +22,9 @@
 **About me and my work**
 -------------
 It all started back in the '90s with our first PC...a 386 with MS DOS.
+
+![ ](https://github.com/einherer/einherer/blob/main/pics/idle.gif)
+
 Later we managed to get hands on a bit more powerful PC with Win95 and a 26k modem ; so much power, but the programs and games are so restrictive - how nice would it be to create your own programs or change how they work...
 So I started modding my favorite games (back then like Quake, Jedi Outcast/Jedi Academy, Age of Empires and so on). 
 In secondary school i choose informatics and mathematics as my advanced courses.
