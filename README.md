@@ -2,6 +2,7 @@
 *Software Developer based near Berlin*
 
 ![ ](https://github.com/einherer/einherer/blob/main/pics/share-left.gif)
+![Einherers GitHub stats](https://github-readme-stats.vercel.app/api?username=einherer&show_icons=true&theme=radical)
 
 | Edjucation| | |
 | :--- | :--- | :--- |
