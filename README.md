@@ -1,8 +1,7 @@
 ### Einherer
 *Software Developer based near Berlin*
-
-![ ](https://github.com/einherer/einherer/blob/main/pics/share-left.gif)
-![Einherers GitHub stats](https://github-readme-stats.vercel.app/api?username=einherer&show_icons=true&theme=radical)
+![Einherers GitHub stats](https://github-readme-stats.vercel.app/api?username=einherer&show_icons=true&theme=blue-green&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=einherer&layout=donut)
 
 | Edjucation| | |
 | :--- | :--- | :--- |
