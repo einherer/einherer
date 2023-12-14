@@ -3,7 +3,7 @@
 
 
 ![Einherers GitHub stats](https://github-readme-stats.vercel.app/api?username=einherer&include_all_commits=true&show_icons=true&theme=blue-green&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=einherer&langs_count=10&include_all_commits=true&theme=blue-green&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=einherer&langs_count=10&theme=blue-green&layout=compact)
 
 | Edjucation| | |
 | :--- | :--- | :--- |
